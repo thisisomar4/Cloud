@@ -6,10 +6,10 @@ app = Flask(__name__)
 
 # list of dog images
 images = [
-    "https://giphy.com/gifs/funny-cat-12HZukMBlutpoQ",
-    "https://giphy.com/gifs/tiger-cat-black-and-white-Cr7AfrUbRatmo",
-    "https://giphy.com/gifs/bbcamerica-bbc-america-dynasties-553vlRAc1XZTVlAk3L",
-    "https://giphy.com/gifs/bbcamerica-nature-elephant-bbc-america-ZCNhFJnP23twCGOzDg",
+    "https://media.giphy.com/media/v6aOjy0Qo1fIA/giphy.gif",
+    "https://media.giphy.com/media/3otPoUGBfbuOgFhcpW/giphy.gif",
+    "https://media.giphy.com/media/1Ygkk70ho1h6YrK6oC/giphy.gif",
+    "https://media.giphy.com/media/l1TJVLJM0hfnGJjE4t/giphy.gif",
 ]
 
 
